@@ -1,0 +1,6 @@
+{
+  "name": "3D UNO Arena - Realtime Multiplayer",
+  "description": "An interactive 3D multiplayer UNO card game arena with real-time team room codes, tactile 3D card physics, custom audio, interactive reactions, and official UNO rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
